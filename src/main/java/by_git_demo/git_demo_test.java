@@ -9,7 +9,7 @@ public class git_demo_test {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("hot-fix-plus");
-        System.out.println("hot-fix-plus-demo");
+        System.out.println("hot测试提交是否push成功");
 
     }
 }
