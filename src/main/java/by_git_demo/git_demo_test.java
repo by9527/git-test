@@ -10,6 +10,7 @@ public class git_demo_test {
         System.out.println("hot-fix");
         System.out.println("hot-fix-plus");
         System.out.println("hot测试提交是否push成功");
+        System.out.println("再次测试hot测试提交是否push成功");
 
     }
 }
