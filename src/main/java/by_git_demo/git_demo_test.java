@@ -14,6 +14,7 @@ public class git_demo_test {
         System.out.println("第一次测试hot测试提交是否pull成功");
         System.out.println("第二次测试码云push是否成功");
         System.out.println("第三次测试码云push是否成功");
+        System.out.println("第四次测试码云push是否成功");
 
     }
 }
